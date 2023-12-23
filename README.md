@@ -17,7 +17,11 @@ It uses various python functionalities such as:
 -In-built functions such as round(),conditional statements,Loops,print() function and many more.
 # Scope and Advantages 
 -For the sake of simplicity there is limited scientific calulation tool availability. More scientific calculating tools such as integration,differentiation,trignometric tools etc can also be included to increase the scope of the calculator.
--It is good at dealing with exceptions such as DivisionByZero Error, DomainError, RangeError,ValueError: Math domain error etc.
+-It is good at dealing with exceptions such as: 
+  -DivisionByZero Error
+  -DomainError 
+  -RangeError
+  -TypeError
 -User friendly 
 # Limitations
 -Cannot add or multiply more than two numbers at once
@@ -27,3 +31,9 @@ It uses various python functionalities such as:
 # Prequsites
 -Must have a Python IDLE to run this program 
 -Must have a PC with atleast 4GB RAM
+# Exceptions description
+Here we are descrbing each type of execeptions which might arsise in this program
+I)DivsionByZeroError: Raised when divsior is 0.
+II)DomainError:Raised when the a negative number is provided in the argument of the logarithm function or providing a negative value for square root calculation.
+III)RangeError: Raised when number provided is 0 in arg of logarithm function.
+IV)TypeError: When user provides an inappropriate data type where implicit conversation is not possible. E.g providing string as an input for int/float data type.
