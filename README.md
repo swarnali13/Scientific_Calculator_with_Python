@@ -40,7 +40,7 @@ It uses various python functionalities such as:
   
   -TypeError
   
-  -User friendly 
+This program is user friendly too
 # Limitations
 -Cannot add or multiply more than two numbers at once.
 
