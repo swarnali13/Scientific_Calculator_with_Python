@@ -19,7 +19,7 @@ This is a scientific calculator made by using python. It can perform:
   
   -unit conversion(binary to decimal and vice versa).
 # Descrption
-It is an online scientifc calculator which performs calculations along with mathematical calculations. It's useful for calculation of numbers with very large values. 
+It is an online scientifc calculator which performs calculations along with mathematical calculations. It's useful for calculation of numbers with very large values. Here the selective iterating statements work similar to switch case in Java(i.e performs a spectific option w.r.t. to given case)
 It uses various python functionalities such as:
 
 -Math module
@@ -54,7 +54,8 @@ It uses various python functionalities such as:
 
 -Must have a PC with atleast 4GB RAM
 # Exceptions description
-Here we are descrbing each type of execeptions which might arsise in this program:
+Here we are descrbing each type of execeptions(an unexpected situation which is not under our control) which might arsise in this program:
+
 I)DivsionByZeroError: Raised when divsior is 0.
 
 II)DomainError:Raised when the a negative number is provided in the argument of the logarithm function or providing a negative value for square root calculation.
