@@ -13,11 +13,11 @@ This is a scientific calculator made by using python. It can perform:
   
 -Scientific calculations:
 
-  -computing square root
+  -Computing square root
   
-  -logarithm 
+  -Logarithm 
   
-  -unit conversion(binary to decimal and vice versa).
+  -Unit conversion(binary to decimal and vice versa).
 # Descrption
 It is an online scientifc calculator which performs calculations along with mathematical calculations. It's useful for calculation of numbers with very large values. Here the selective iterating statements work similar to switch case in Java(i.e performs a spectific option w.r.t. to given case)
 It uses various python functionalities such as:
