@@ -106,6 +106,6 @@ while True:            #Creating a while loop in order to maintain the continuit
         else:
             raise ValueError
     except ValueError: #Handling ValueError
-        print('please enter a valid choice')
+        print('Please enter a valid value!')
 
 print('Thank you for using the calculator. ')       #Finally completing the program!
